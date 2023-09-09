@@ -1,3 +1,0 @@
-Primeira linha do projeto no repositório local escrito por João Monteiro.
-Segunda linha do projeto após a criada após criação do repositório remoto.
-Linha 3 para o pull
